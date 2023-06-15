@@ -1,6 +1,6 @@
 # VBA-challenge
 Module 2 Challenge
-In this repositry I have uploaded a wordfile with screenshots for the three years of data and the bonus section, I have also uploaded the VBA code as a txt seperate file. 
+In this repositry I have uploaded a wordfile with screenshots for the three years of data and the bonus section called challenge 2 screenshots.dox, I have also uploaded the VBA code (challenge 2 code.vbs) as a txt seperate file (challenge 2 code text.txt). 
 
 To create the code I used code from analysistabs.com and used the code "Columns ("X").ColumnWidth = desired column width " To alter the width of some of the new columns so all the data was visable. 
 To find the greatest perecentage increase, decrease and the greatest total volume I used code from forum.ozgrid.com from Reafidy "Max = Application.WorksheetFunction.Max(Columns("x")) and "Min = Application.WorksheetFunction.Min (Columns("x"))". 
